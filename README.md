@@ -10,7 +10,6 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<div class="tenor-gif-embed" data-postid="3782271180358052604" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/mask-off-the-batman-batman-robert-pattinson-bat-gif-3782271180358052604">Mask Off The Batman GIF</a>from <a href="https://tenor.com/search/mask+off-gifs">Mask Off GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ###
 
 <div align="left">
