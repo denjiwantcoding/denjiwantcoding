@@ -6,11 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=denjiwantcoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denjiwantcoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=denjiwantcoding&show_icons=true&theme=dracula&cache_seconds=1800)
-
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denjiwantcoding&layout=compact&theme=dracula&cache_seconds=1800)
 
 
 ###
